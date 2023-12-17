@@ -1,0 +1,32 @@
+.section-3{
+    background-color: azure;
+    height: 450px;
+    width: 100%;
+    margin-top: 100px;
+
+}
+.heading{
+    text-align: center;
+}
+
+.heading h3{
+    font-weight: 500;
+    letter-spacing: 5px;
+    font-size: 10px;
+    padding-bottom: 5px;
+    color: var(--red-color);
+}
+
+.parent-box{
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+
+}
+.lit{
+    margin: 70px 20px;
+    width: 210px;
+    height: 220px;
+    background-color: var(--deep-yellow);
+    border-radius: 12px;
+}  
